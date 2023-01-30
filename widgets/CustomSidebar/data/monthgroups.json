@@ -1,0 +1,70 @@
+[
+  {
+    "label": "Year",
+    "value": "Year"
+  },
+  {
+    "label": "S01-Winter",
+    "value": "S01-Winter"
+  },
+  {
+    "label": "S02-Spring",
+    "value": "S02-Spring"
+  },
+  {
+    "label": "S03-Summer",
+    "value": "S03-Summer"
+  },
+  {
+    "label": "S04-Fall",
+    "value": "S04-Fall"
+  },
+  {
+    "label": "M01-Jan",
+    "value": "M01-Jan"
+  },
+  {
+    "label": "M02-Feb",
+    "value": "M02-Feb"
+  },
+  {
+    "label": "M03-Mar",
+    "value": "M03-Mar"
+  },
+  {
+    "label": "M04-Apr",
+    "value": "M04-Apr"
+  },
+  {
+    "label": "M05-May",
+    "value": "M05-May"
+  },
+  {
+    "label": "M06-Jun",
+    "value": "M06-Jun"
+  },
+  {
+    "label": "M07-Jul",
+    "value": "M07-Jul"
+  },
+  {
+    "label": "M08-Aug",
+    "value": "M08-Aug"
+  },
+  {
+    "label": "M09-Sep",
+    "value": "M09-Sep"
+  },
+  {
+    "label": "M10-Oct",
+    "value": "M10-Oct"
+  },
+  {
+    "label": "M11-Nov",
+    "value": "M11-Nov"
+  },
+  {
+    "label": "M12-Dec",
+    "value": "M12-Dec"
+  }
+]

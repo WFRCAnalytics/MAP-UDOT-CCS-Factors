@@ -1,0 +1,3522 @@
+[
+  {
+    "StationGroup": "ALL",
+    "StationID": 301,
+    "StationName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 302,
+    "StationName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 303,
+    "StationName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 304,
+    "StationName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 305,
+    "StationName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 306,
+    "StationName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 307,
+    "StationName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 308,
+    "StationName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 309,
+    "StationName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 310,
+    "StationName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 312,
+    "StationName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 313,
+    "StationName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 314,
+    "StationName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 315,
+    "StationName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 316,
+    "StationName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 317,
+    "StationName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 318,
+    "StationName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 319,
+    "StationName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 320,
+    "StationName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 321,
+    "StationName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 322,
+    "StationName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 323,
+    "StationName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 324,
+    "StationName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 325,
+    "StationName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 327,
+    "StationName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 329,
+    "StationName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 332,
+    "StationName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 333,
+    "StationName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 335,
+    "StationName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 340,
+    "StationName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 341,
+    "StationName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 348,
+    "StationName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 349,
+    "StationName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 350,
+    "StationName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 351,
+    "StationName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 353,
+    "StationName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 354,
+    "StationName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 355,
+    "StationName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 362,
+    "StationName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 363,
+    "StationName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 382,
+    "StationName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 400,
+    "StationName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 401,
+    "StationName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 402,
+    "StationName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 403,
+    "StationName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 404,
+    "StationName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 405,
+    "StationName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 406,
+    "StationName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 407,
+    "StationName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 408,
+    "StationName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 409,
+    "StationName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 411,
+    "StationName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 412,
+    "StationName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 414,
+    "StationName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 415,
+    "StationName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 416,
+    "StationName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 418,
+    "StationName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 420,
+    "StationName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 421,
+    "StationName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 424,
+    "StationName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 425,
+    "StationName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 427,
+    "StationName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 430,
+    "StationName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 431,
+    "StationName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 501,
+    "StationName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 502,
+    "StationName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 503,
+    "StationName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 504,
+    "StationName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 506,
+    "StationName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 507,
+    "StationName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 508,
+    "StationName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 509,
+    "StationName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 510,
+    "StationName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 511,
+    "StationName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 512,
+    "StationName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 513,
+    "StationName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 601,
+    "StationName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 602,
+    "StationName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 605,
+    "StationName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 606,
+    "StationName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 609,
+    "StationName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 611,
+    "StationName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 612,
+    "StationName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 613,
+    "StationName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 614,
+    "StationName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 615,
+    "StationName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 616,
+    "StationName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 617,
+    "StationName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 619,
+    "StationName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 620,
+    "StationName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 621,
+    "StationName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 622,
+    "StationName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 623,
+    "StationName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 624,
+    "StationName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 625,
+    "StationName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 626,
+    "StationName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 627,
+    "StationName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 628,
+    "StationName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 629,
+    "StationName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 630,
+    "StationName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 631,
+    "StationName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 632,
+    "StationName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 633,
+    "StationName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 634,
+    "StationName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 635,
+    "StationName": "635: I 15, 15400 South, Draper"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 636,
+    "StationName": "636: SR 154 Bangerter @ 700 W Draper MP 1.857"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 637,
+    "StationName": "637: I 215 @ 3900 S West Valley MP 16.880 NB"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 638,
+    "StationName": "638: I-15 N. South Santaquin"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 639,
+    "StationName": "639: I-15 N. of SR-178, Payson"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 641,
+    "StationName": "641: I-15 N. of SR 52 800 N.  NB, Orem"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 642,
+    "StationName": "642: SR-52 800 N. E. of I-15, Orem"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 643,
+    "StationName": "643: Jct SR 89 - SR 74 via 1200 East and 10400 South.,Highland"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 644,
+    "StationName": "644: FR-2285 Pony Express Pkwy W. of Redwood Rd., Eagle Mountain"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 645,
+    "StationName": "645: SR-129 N. County Blvd N. of Pleasant Grove Blvd., Pleasant Grove"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 646,
+    "StationName": "646: SR-77 400 S. E. of I-15, Springville"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 647,
+    "StationName": "647: SR-89 400 N., Lindon"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 648,
+    "StationName": "648: SR-194 2100 N. E. of SR-68 WB, Lehi"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 649,
+    "StationName": "649: SR-114 Provo Center E. of I-15, Provo"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 650,
+    "StationName": "650: 100 West Santaquin Via SR-6, Santaquin"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 651,
+    "StationName": "651: SR-114 Geneva Rd N. of University Pkwy., Orem"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 653,
+    "StationName": "653: SR-156 Main st., Spanish Fork"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 654,
+    "StationName": "654: SR-178 800 S. E. of 1000 W., Payson"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 655,
+    "StationName": "655: I-15 N. of SR 164 South Spanish Fork"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 656,
+    "StationName": "656: SR-129 North County Blvd N. of 2600 N., Cedar Hills"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 657,
+    "StationName": "657: FR-2889 Ranches Pkwy. N. of Pony Express Way., Eagle Mountain"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 658,
+    "StationName": "658: SR-89 State St. N. of Pacific Dr., American Fork"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 659,
+    "StationName": "659: SR-189 800 North, Provo"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 660,
+    "StationName": "660: SR 75 (Road to Ironton) Via SR-89, Provo"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 661,
+    "StationName": "661: 800 East - SR 189 Olmstead Junction, Orem"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 662,
+    "StationName": "662: 2300 West (Lehi) between Main St. and 2100 North"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 663,
+    "StationName": "663: Harbor Park Way via Redwood Rd - 400 S Lehi, Saratoga Springs"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 665,
+    "StationName": "665: I-15 N. of SR 77 NB, Springville"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 667,
+    "StationName": "667: I-15 N. of SR 75 North NB, Springville\\/Provo"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 669,
+    "StationName": "669: I-15 N. of SR 265 BYU Diagonal\\/University Pkwy NB, Provo"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 670,
+    "StationName": "670: I-15 N. of SR 241 NB, Lindon \\/ Pleasant Grove"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 671,
+    "StationName": "671: I-15 N of SR 180 500 East NB, American Fork"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 672,
+    "StationName": "672: 278.528"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 674,
+    "StationName": "674: I-15 N of SR 92  NB, Highland \\/ (Alpine)"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 702,
+    "StationName": "702: SR-18 Bluff St. 425 N. St. George"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 703,
+    "StationName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 704,
+    "StationName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 711,
+    "StationName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 712,
+    "StationName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 713,
+    "StationName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 714,
+    "StationName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 715,
+    "StationName": "715: SR-9 Quail Ridge Rd., Springdale"
+  },
+  {
+    "StationGroup": "ALL",
+    "StationID": 716,
+    "StationName": "716: SR-18 Bluff St. ST. George"
+  },
+  {
+    "StationGroup": "CO0",
+    "StationID": 601,
+    "StationName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "StationGroup": "CO0",
+    "StationID": 602,
+    "StationName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "StationGroup": "CO1",
+    "StationID": 304,
+    "StationName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "StationGroup": "CO1",
+    "StationID": 362,
+    "StationName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "StationGroup": "CO2",
+    "StationID": 322,
+    "StationName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "StationGroup": "CO3",
+    "StationID": 382,
+    "StationName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "StationGroup": "CO7",
+    "StationID": 310,
+    "StationName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "StationGroup": "CO4",
+    "StationID": 313,
+    "StationName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "StationGroup": "CO4",
+    "StationID": 401,
+    "StationName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "StationGroup": "CO4",
+    "StationID": 403,
+    "StationName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "StationGroup": "CO4",
+    "StationID": 502,
+    "StationName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "StationGroup": "CO4",
+    "StationID": 513,
+    "StationName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "StationGroup": "CO5",
+    "StationID": 349,
+    "StationName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "StationGroup": "CO5",
+    "StationID": 400,
+    "StationName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "StationGroup": "CO5",
+    "StationID": 613,
+    "StationName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 302,
+    "StationName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 306,
+    "StationName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 315,
+    "StationName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 348,
+    "StationName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 611,
+    "StationName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 612,
+    "StationName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 616,
+    "StationName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 621,
+    "StationName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 629,
+    "StationName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "StationGroup": "CO6",
+    "StationID": 630,
+    "StationName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "StationGroup": "CO8",
+    "StationID": 351,
+    "StationName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "StationGroup": "CO8",
+    "StationID": 353,
+    "StationName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "StationGroup": "CO8",
+    "StationID": 501,
+    "StationName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "StationGroup": "CO8",
+    "StationID": 617,
+    "StationName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "StationGroup": "CO8",
+    "StationID": 628,
+    "StationName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "StationGroup": "CO9",
+    "StationID": 404,
+    "StationName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "StationGroup": "CO9",
+    "StationID": 508,
+    "StationName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "StationGroup": "COA",
+    "StationID": 323,
+    "StationName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "StationGroup": "COB",
+    "StationID": 615,
+    "StationName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "StationGroup": "COC",
+    "StationID": 340,
+    "StationName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "StationGroup": "COC",
+    "StationID": 341,
+    "StationName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "StationGroup": "COD",
+    "StationID": 301,
+    "StationName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "StationGroup": "COY",
+    "StationID": 309,
+    "StationName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "StationGroup": "COY",
+    "StationID": 318,
+    "StationName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "StationGroup": "COZ",
+    "StationID": 307,
+    "StationName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "StationGroup": "COE",
+    "StationID": 614,
+    "StationName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "StationGroup": "COF",
+    "StationID": 624,
+    "StationName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "StationGroup": "COF",
+    "StationID": 625,
+    "StationName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "StationGroup": "COG",
+    "StationID": 619,
+    "StationName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "StationGroup": "COH",
+    "StationID": 509,
+    "StationName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "StationGroup": "COI",
+    "StationID": 317,
+    "StationName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "StationGroup": "COJ",
+    "StationID": 421,
+    "StationName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "StationGroup": "COK",
+    "StationID": 605,
+    "StationName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "StationGroup": "COK",
+    "StationID": 606,
+    "StationName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "StationGroup": "COL",
+    "StationID": 424,
+    "StationName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "StationGroup": "COM",
+    "StationID": 512,
+    "StationName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "StationGroup": "CON",
+    "StationID": 414,
+    "StationName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "StationGroup": "CON",
+    "StationID": 415,
+    "StationName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "StationGroup": "CON",
+    "StationID": 504,
+    "StationName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "StationGroup": "COO",
+    "StationID": 324,
+    "StationName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "StationGroup": "COO",
+    "StationID": 411,
+    "StationName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "StationGroup": "COO",
+    "StationID": 412,
+    "StationName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "StationGroup": "COO",
+    "StationID": 420,
+    "StationName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "StationGroup": "COO",
+    "StationID": 506,
+    "StationName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "StationGroup": "COP",
+    "StationID": 321,
+    "StationName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "StationGroup": "COP",
+    "StationID": 405,
+    "StationName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "StationGroup": "COP",
+    "StationID": 430,
+    "StationName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "StationGroup": "COP",
+    "StationID": 431,
+    "StationName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 303,
+    "StationName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 305,
+    "StationName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 308,
+    "StationName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 312,
+    "StationName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 314,
+    "StationName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 320,
+    "StationName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 416,
+    "StationName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 418,
+    "StationName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 427,
+    "StationName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "StationGroup": "COQ",
+    "StationID": 609,
+    "StationName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "StationGroup": "COR",
+    "StationID": 319,
+    "StationName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "StationGroup": "COR",
+    "StationID": 363,
+    "StationName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "StationGroup": "COR",
+    "StationID": 622,
+    "StationName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "StationGroup": "COS",
+    "StationID": 407,
+    "StationName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "StationGroup": "COS",
+    "StationID": 425,
+    "StationName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "StationGroup": "COS",
+    "StationID": 503,
+    "StationName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "StationGroup": "COS",
+    "StationID": 507,
+    "StationName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "StationGroup": "COS",
+    "StationID": 511,
+    "StationName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "StationGroup": "COS",
+    "StationID": 633,
+    "StationName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 316,
+    "StationName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 327,
+    "StationName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 332,
+    "StationName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 350,
+    "StationName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 355,
+    "StationName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 510,
+    "StationName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 620,
+    "StationName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 626,
+    "StationName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 632,
+    "StationName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "StationGroup": "COT",
+    "StationID": 634,
+    "StationName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 325,
+    "StationName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 329,
+    "StationName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 333,
+    "StationName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 335,
+    "StationName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 354,
+    "StationName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 406,
+    "StationName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 408,
+    "StationName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 409,
+    "StationName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 627,
+    "StationName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 631,
+    "StationName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "StationGroup": "COU",
+    "StationID": 711,
+    "StationName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "StationGroup": "COV",
+    "StationID": 623,
+    "StationName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "StationGroup": "COV",
+    "StationID": 703,
+    "StationName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "StationGroup": "COV",
+    "StationID": 704,
+    "StationName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "StationGroup": "COW",
+    "StationID": 402,
+    "StationName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "StationGroup": "COX",
+    "StationID": 712,
+    "StationName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "StationGroup": "COX",
+    "StationID": 713,
+    "StationName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "StationGroup": "COX",
+    "StationID": 714,
+    "StationName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "StationGroup": "SN0",
+    "StationID": 601,
+    "StationName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "StationGroup": "SN0",
+    "StationID": 602,
+    "StationName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "StationGroup": "SN1",
+    "StationID": 304,
+    "StationName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "StationGroup": "SN1",
+    "StationID": 362,
+    "StationName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "StationGroup": "SN2",
+    "StationID": 322,
+    "StationName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "StationGroup": "SN3",
+    "StationID": 382,
+    "StationName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "StationGroup": "SN4",
+    "StationID": 310,
+    "StationName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "StationGroup": "SN4",
+    "StationID": 313,
+    "StationName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "StationGroup": "SN4",
+    "StationID": 349,
+    "StationName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "StationGroup": "SN4",
+    "StationID": 502,
+    "StationName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "StationGroup": "SN4",
+    "StationID": 513,
+    "StationName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "StationGroup": "SN5",
+    "StationID": 315,
+    "StationName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "StationGroup": "SN5",
+    "StationID": 403,
+    "StationName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "StationGroup": "SN5",
+    "StationID": 613,
+    "StationName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "StationGroup": "SN6",
+    "StationID": 306,
+    "StationName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "StationGroup": "SN6",
+    "StationID": 348,
+    "StationName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "StationGroup": "SN6",
+    "StationID": 611,
+    "StationName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "StationGroup": "SN6",
+    "StationID": 630,
+    "StationName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "StationGroup": "SN7",
+    "StationID": 302,
+    "StationName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "StationGroup": "SN7",
+    "StationID": 612,
+    "StationName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "StationGroup": "SN7",
+    "StationID": 616,
+    "StationName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "StationGroup": "SN7",
+    "StationID": 629,
+    "StationName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "StationGroup": "SN8",
+    "StationID": 351,
+    "StationName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "StationGroup": "SN8",
+    "StationID": 353,
+    "StationName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "StationGroup": "SN8",
+    "StationID": 501,
+    "StationName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "StationGroup": "SN8",
+    "StationID": 617,
+    "StationName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "StationGroup": "SN8",
+    "StationID": 628,
+    "StationName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "StationGroup": "SN9",
+    "StationID": 404,
+    "StationName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "StationGroup": "SN9",
+    "StationID": 508,
+    "StationName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "StationGroup": "SNA",
+    "StationID": 301,
+    "StationName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "StationGroup": "SNA",
+    "StationID": 309,
+    "StationName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "StationGroup": "SNA",
+    "StationID": 318,
+    "StationName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "StationGroup": "SNA",
+    "StationID": 323,
+    "StationName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "StationGroup": "SNA",
+    "StationID": 615,
+    "StationName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "StationGroup": "SND",
+    "StationID": 340,
+    "StationName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "StationGroup": "SND",
+    "StationID": 341,
+    "StationName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "StationGroup": "SNE",
+    "StationID": 307,
+    "StationName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "StationGroup": "SNE",
+    "StationID": 614,
+    "StationName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "StationGroup": "SNF",
+    "StationID": 624,
+    "StationName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "StationGroup": "SNF",
+    "StationID": 625,
+    "StationName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "StationGroup": "SNG",
+    "StationID": 619,
+    "StationName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "StationGroup": "SNH",
+    "StationID": 509,
+    "StationName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "StationGroup": "SNI",
+    "StationID": 317,
+    "StationName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "StationGroup": "SNJ",
+    "StationID": 421,
+    "StationName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "StationGroup": "SNK",
+    "StationID": 605,
+    "StationName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "StationGroup": "SNK",
+    "StationID": 606,
+    "StationName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "StationGroup": "SNL",
+    "StationID": 424,
+    "StationName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "StationGroup": "SNM",
+    "StationID": 512,
+    "StationName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "StationGroup": "SNN",
+    "StationID": 414,
+    "StationName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 324,
+    "StationName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 411,
+    "StationName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 412,
+    "StationName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 415,
+    "StationName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 420,
+    "StationName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 504,
+    "StationName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "StationGroup": "SNO",
+    "StationID": 506,
+    "StationName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "StationGroup": "SNP",
+    "StationID": 321,
+    "StationName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "StationGroup": "SNP",
+    "StationID": 405,
+    "StationName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "StationGroup": "SNP",
+    "StationID": 430,
+    "StationName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "StationGroup": "SNP",
+    "StationID": 431,
+    "StationName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 303,
+    "StationName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 305,
+    "StationName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 308,
+    "StationName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 312,
+    "StationName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 314,
+    "StationName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 320,
+    "StationName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 416,
+    "StationName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 418,
+    "StationName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 427,
+    "StationName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "StationGroup": "SNQ",
+    "StationID": 609,
+    "StationName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "StationGroup": "SNR",
+    "StationID": 319,
+    "StationName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "StationGroup": "SNR",
+    "StationID": 363,
+    "StationName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "StationGroup": "SNR",
+    "StationID": 622,
+    "StationName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "StationGroup": "SNS",
+    "StationID": 407,
+    "StationName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "StationGroup": "SNS",
+    "StationID": 425,
+    "StationName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "StationGroup": "SNS",
+    "StationID": 503,
+    "StationName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "StationGroup": "SNS",
+    "StationID": 507,
+    "StationName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "StationGroup": "SNS",
+    "StationID": 511,
+    "StationName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "StationGroup": "SNS",
+    "StationID": 633,
+    "StationName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 316,
+    "StationName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 327,
+    "StationName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 332,
+    "StationName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 350,
+    "StationName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 355,
+    "StationName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 510,
+    "StationName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 620,
+    "StationName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 626,
+    "StationName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 632,
+    "StationName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "StationGroup": "SNT",
+    "StationID": 634,
+    "StationName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 325,
+    "StationName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 329,
+    "StationName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 333,
+    "StationName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 335,
+    "StationName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 354,
+    "StationName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 406,
+    "StationName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 408,
+    "StationName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 409,
+    "StationName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 627,
+    "StationName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 631,
+    "StationName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "StationGroup": "SNU",
+    "StationID": 711,
+    "StationName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "StationGroup": "SNV",
+    "StationID": 623,
+    "StationName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "StationGroup": "SNV",
+    "StationID": 703,
+    "StationName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "StationGroup": "SNV",
+    "StationID": 704,
+    "StationName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "StationGroup": "SNW",
+    "StationID": 402,
+    "StationName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "StationGroup": "SNW",
+    "StationID": 712,
+    "StationName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "StationGroup": "SNW",
+    "StationID": 713,
+    "StationName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "StationGroup": "SNW",
+    "StationID": 714,
+    "StationName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "StationGroup": "SNX",
+    "StationID": 400,
+    "StationName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "StationGroup": "SNX",
+    "StationID": 401,
+    "StationName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "StationGroup": "SNX",
+    "StationID": 621,
+    "StationName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 302,
+    "StationName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 321,
+    "StationName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 350,
+    "StationName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 402,
+    "StationName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 409,
+    "StationName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 427,
+    "StationName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 605,
+    "StationName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 606,
+    "StationName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 613,
+    "StationName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 626,
+    "StationName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 627,
+    "StationName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 629,
+    "StationName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 631,
+    "StationName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 632,
+    "StationName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 633,
+    "StationName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 634,
+    "StationName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 635,
+    "StationName": "635: I 15, 15400 South, Draper"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 712,
+    "StationName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 713,
+    "StationName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "StationGroup": "U00",
+    "StationID": 714,
+    "StationName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 306,
+    "StationName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 315,
+    "StationName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 340,
+    "StationName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 341,
+    "StationName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 348,
+    "StationName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 351,
+    "StationName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 353,
+    "StationName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 501,
+    "StationName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 611,
+    "StationName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 612,
+    "StationName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 616,
+    "StationName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 617,
+    "StationName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 621,
+    "StationName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 628,
+    "StationName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "StationGroup": "U40",
+    "StationID": 630,
+    "StationName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 316,
+    "StationName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 327,
+    "StationName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 329,
+    "StationName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 332,
+    "StationName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 333,
+    "StationName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 354,
+    "StationName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 406,
+    "StationName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 425,
+    "StationName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 619,
+    "StationName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 620,
+    "StationName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 624,
+    "StationName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 625,
+    "StationName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "StationGroup": "U43",
+    "StationID": 711,
+    "StationName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 325,
+    "StationName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 335,
+    "StationName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 355,
+    "StationName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 407,
+    "StationName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 408,
+    "StationName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 511,
+    "StationName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "StationGroup": "U45",
+    "StationID": 622,
+    "StationName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 301,
+    "StationName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 307,
+    "StationName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 310,
+    "StationName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 313,
+    "StationName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 323,
+    "StationName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 349,
+    "StationName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 400,
+    "StationName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 401,
+    "StationName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 403,
+    "StationName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 502,
+    "StationName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 513,
+    "StationName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 614,
+    "StationName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "StationGroup": "U50",
+    "StationID": 615,
+    "StationName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 312,
+    "StationName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 314,
+    "StationName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 324,
+    "StationName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 363,
+    "StationName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 418,
+    "StationName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 420,
+    "StationName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 425,
+    "StationName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 431,
+    "StationName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 503,
+    "StationName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 506,
+    "StationName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 507,
+    "StationName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "StationGroup": "U51",
+    "StationID": 509,
+    "StationName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 303,
+    "StationName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 305,
+    "StationName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 405,
+    "StationName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 412,
+    "StationName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 430,
+    "StationName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 510,
+    "StationName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "StationGroup": "U53",
+    "StationID": 609,
+    "StationName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 308,
+    "StationName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 309,
+    "StationName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 318,
+    "StationName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 319,
+    "StationName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 320,
+    "StationName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 382,
+    "StationName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 404,
+    "StationName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 411,
+    "StationName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 414,
+    "StationName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 415,
+    "StationName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 416,
+    "StationName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 418,
+    "StationName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 421,
+    "StationName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 424,
+    "StationName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 430,
+    "StationName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 504,
+    "StationName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 508,
+    "StationName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 509,
+    "StationName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 512,
+    "StationName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 601,
+    "StationName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 602,
+    "StationName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "StationGroup": "U60",
+    "StationID": 609,
+    "StationName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "StationGroup": "U62",
+    "StationID": 317,
+    "StationName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "StationGroup": "U62",
+    "StationID": 322,
+    "StationName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "StationGroup": "U63",
+    "StationID": 304,
+    "StationName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "StationGroup": "U63",
+    "StationID": 362,
+    "StationName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "StationGroup": "U70",
+    "StationID": 623,
+    "StationName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "StationGroup": "U70",
+    "StationID": 703,
+    "StationName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "StationGroup": "U70",
+    "StationID": 704,
+    "StationName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "StationGroup": "U75",
+    "StationID": 304,
+    "StationName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "StationGroup": "U75",
+    "StationID": 362,
+    "StationName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "StationGroup": "U75",
+    "StationID": 382,
+    "StationName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "StationGroup": "U75",
+    "StationID": 601,
+    "StationName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "StationGroup": "U75",
+    "StationID": 602,
+    "StationName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 308,
+    "StationName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 312,
+    "StationName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 314,
+    "StationName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 319,
+    "StationName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 320,
+    "StationName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 321,
+    "StationName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 324,
+    "StationName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 363,
+    "StationName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 382,
+    "StationName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 411,
+    "StationName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 414,
+    "StationName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 415,
+    "StationName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 416,
+    "StationName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 418,
+    "StationName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 420,
+    "StationName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 421,
+    "StationName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 424,
+    "StationName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 430,
+    "StationName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 431,
+    "StationName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 504,
+    "StationName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "StationGroup": "WD0",
+    "StationID": 609,
+    "StationName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 303,
+    "StationName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 305,
+    "StationName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 327,
+    "StationName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 355,
+    "StationName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 412,
+    "StationName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 503,
+    "StationName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 506,
+    "StationName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "StationGroup": "WD1",
+    "StationID": 605,
+    "StationName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 332,
+    "StationName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 405,
+    "StationName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 407,
+    "StationName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 425,
+    "StationName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 427,
+    "StationName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 510,
+    "StationName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 511,
+    "StationName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 606,
+    "StationName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 620,
+    "StationName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 622,
+    "StationName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "StationGroup": "WD2",
+    "StationID": 633,
+    "StationName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 325,
+    "StationName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 329,
+    "StationName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 333,
+    "StationName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 335,
+    "StationName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 354,
+    "StationName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 406,
+    "StationName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 408,
+    "StationName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 409,
+    "StationName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 623,
+    "StationName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 631,
+    "StationName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 703,
+    "StationName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "StationGroup": "WD3",
+    "StationID": 704,
+    "StationName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 304,
+    "StationName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 317,
+    "StationName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 322,
+    "StationName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 362,
+    "StationName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 512,
+    "StationName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 601,
+    "StationName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "StationGroup": "WD4",
+    "StationID": 602,
+    "StationName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "StationGroup": "WD5",
+    "StationID": 402,
+    "StationName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "StationGroup": "WD5",
+    "StationID": 507,
+    "StationName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 316,
+    "StationName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 350,
+    "StationName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 626,
+    "StationName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 632,
+    "StationName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 634,
+    "StationName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 712,
+    "StationName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 713,
+    "StationName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "StationGroup": "WD6",
+    "StationID": 714,
+    "StationName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "StationGroup": "WD7",
+    "StationID": 627,
+    "StationName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "StationGroup": "WD7",
+    "StationID": 711,
+    "StationName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "StationGroup": "WD8",
+    "StationID": 310,
+    "StationName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "StationGroup": "WD8",
+    "StationID": 313,
+    "StationName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "StationGroup": "WD8",
+    "StationID": 401,
+    "StationName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "StationGroup": "WD8",
+    "StationID": 403,
+    "StationName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "StationGroup": "WD8",
+    "StationID": 502,
+    "StationName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "StationGroup": "WD8",
+    "StationID": 513,
+    "StationName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "StationGroup": "WD9",
+    "StationID": 349,
+    "StationName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "StationGroup": "WD9",
+    "StationID": 400,
+    "StationName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "StationGroup": "WD9",
+    "StationID": 613,
+    "StationName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 302,
+    "StationName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 306,
+    "StationName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 315,
+    "StationName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 348,
+    "StationName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 611,
+    "StationName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 612,
+    "StationName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 616,
+    "StationName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 621,
+    "StationName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 629,
+    "StationName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "StationGroup": "WDA",
+    "StationID": 630,
+    "StationName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "StationGroup": "WDB",
+    "StationID": 351,
+    "StationName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "StationGroup": "WDB",
+    "StationID": 353,
+    "StationName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "StationGroup": "WDB",
+    "StationID": 501,
+    "StationName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "StationGroup": "WDB",
+    "StationID": 617,
+    "StationName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "StationGroup": "WDB",
+    "StationID": 628,
+    "StationName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "StationGroup": "WDC",
+    "StationID": 404,
+    "StationName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "StationGroup": "WDC",
+    "StationID": 508,
+    "StationName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "StationGroup": "WDD",
+    "StationID": 309,
+    "StationName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "StationGroup": "WDD",
+    "StationID": 318,
+    "StationName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "StationGroup": "WDD",
+    "StationID": 323,
+    "StationName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "StationGroup": "WDE",
+    "StationID": 301,
+    "StationName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "StationGroup": "WDE",
+    "StationID": 615,
+    "StationName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "StationGroup": "WDF",
+    "StationID": 340,
+    "StationName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "StationGroup": "WDF",
+    "StationID": 341,
+    "StationName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "StationGroup": "WDG",
+    "StationID": 307,
+    "StationName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "StationGroup": "WDH",
+    "StationID": 614,
+    "StationName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "StationGroup": "WDI",
+    "StationID": 624,
+    "StationName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "StationGroup": "WDI",
+    "StationID": 625,
+    "StationName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "StationGroup": "WDJ",
+    "StationID": 619,
+    "StationName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "StationGroup": "WDK",
+    "StationID": 509,
+    "StationName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO0",
+    "StationName": "CO0: Combined Alpine Loop"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO1",
+    "StationName": "CO1: Combined Bear Lake"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO2",
+    "StationName": "CO2: Combined Big Cottonwood"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO3",
+    "StationName": "CO3: Combined Cedar Breaks"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO7",
+    "StationName": "CO3: Combined Freeway I-15 Plymouth"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO4",
+    "StationName": "CO4: Combined Freeway I-15 Rural"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO5",
+    "StationName": "CO5: Combined Freeway I-15 Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO6",
+    "StationName": "CO6: Combined Freeway I-15 Suburban/Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO8",
+    "StationName": "CO8: Combined Freeway I-215"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CO9",
+    "StationName": "CO9: Combined Freeway I-70"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COA",
+    "StationName": "COA: Combined Freeway I-80 Nevada to Tooele"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COB",
+    "StationName": "COB: Combined Freeway I-80 Tooele to Bangerter"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COC",
+    "StationName": "COC: Combined Freeway I-80 Bangerter to Wasatch"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COD",
+    "StationName": "COD: Combined Freeway I-80 Wasatch to US-40"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COY",
+    "StationName": "COY: Combined Freeway I-80 US-40 to Wyoming"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COE",
+    "StationName": "COE: Combined Freeway I-84 West"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COZ",
+    "StationName": "COZ: Combined Freeway I-84 East"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COF",
+    "StationName": "COF: Combined Freeway Legacy"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COG",
+    "StationName": "COG: Combined Freeway SR-201"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COH",
+    "StationName": "COH: Combined Freeway US-40"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COI",
+    "StationName": "COI: Combined Little Cottonwood / Snowbasin"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COJ",
+    "StationName": "COJ: Combined Moab"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COK",
+    "StationName": "COK: Combined Park City"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COL",
+    "StationName": "COL: Combined Rural Rec Low Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COM",
+    "StationName": "COM: Combined Rural Rec Low Vol - Closed Winter"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "CON",
+    "StationName": "CON: Combined Southeast Low Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COO",
+    "StationName": "COO: Combined Southeast High Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COP",
+    "StationName": "COP: Combined Statewide Arterial - Rural Low Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COQ",
+    "StationName": "COQ: Combined Statewide Arterial - Rural Mid Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COR",
+    "StationName": "COR: Combined Statewide Arterial - Rural High Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COS",
+    "StationName": "COS: Combined Statewide Arterial - Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COT",
+    "StationName": "COT: Combined Statewide Arterial - Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COU",
+    "StationName": "COU: Combined Statewide Arterial - Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COV",
+    "StationName": "COV: Combined Washington County Arterial"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COW",
+    "StationName": "COW: Combined Washington County Expressway"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "COX",
+    "StationName": "COX: Combined Washington County Freeway"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "XX3",
+    "StationName": "XX3: Combined Statewide Freeway"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN0",
+    "StationName": "SN0: Season Alpine Loop"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN1",
+    "StationName": "SN1: Season Bear Lake"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN2",
+    "StationName": "SN2: Season Big Cottonwood"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN3",
+    "StationName": "SN3: Season Cedar Breaks"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN4",
+    "StationName": "SN4: Season Freeway I-15 Rural"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN5",
+    "StationName": "SN5: Season Freeway I-15 Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN6",
+    "StationName": "SN6: Season Freeway I-15 Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN7",
+    "StationName": "SN7: Season Freeway I-15 Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN8",
+    "StationName": "SN8: Season Freeway I-215"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SN9",
+    "StationName": "SN9: Season Freeway I-70"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNA",
+    "StationName": "SNA: Season Freeway I-80 Rural"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNB",
+    "StationName": "SNB: Season Freeway I-80 Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNC",
+    "StationName": "SNC: Season Freeway I-80 Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SND",
+    "StationName": "SND: Season Freeway I-80 Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNE",
+    "StationName": "SNE: Season Freeway I-84"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNF",
+    "StationName": "SNF: Season Freeway Legacy"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNG",
+    "StationName": "SNG: Season Freeway SR-201"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNH",
+    "StationName": "SNH: Season Freeway US-40"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNI",
+    "StationName": "SNI: Season Little Cottonwood"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNJ",
+    "StationName": "SNJ: Season Moab"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNK",
+    "StationName": "SNK: Season Park City"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNL",
+    "StationName": "SNL: Season Rural Rec Low Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNM",
+    "StationName": "SNM: Season Rural Rec Low Vol - Closed Winter"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNN",
+    "StationName": "SNN: Season Southeast Low Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNO",
+    "StationName": "SNO: Season Southeast High Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNP",
+    "StationName": "SNP: Season Statewide Arterial - Rural Low Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNQ",
+    "StationName": "SNQ: Season Statewide Arterial - Rural Mid Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNR",
+    "StationName": "SNR: Season Statewide Arterial - Rural High Volume"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNS",
+    "StationName": "SNS: Season Statewide Arterial - Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNT",
+    "StationName": "SNT: Season Statewide Arterial - Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNU",
+    "StationName": "SNU: Season Statewide Arterial - Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNV",
+    "StationName": "SNV: Season Washington County Arterial"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNW",
+    "StationName": "SNW: Season Washington County Expressway"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "SNX",
+    "StationName": "SNX: Season Washington County I-15"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "XX1",
+    "StationName": "XX1: Season Wasatch Front Commuter Freeway"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U00",
+    "StationName": "U00: UDOT Stand Alone"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U40",
+    "StationName": "U40: UDOT UrbanInterstate"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U43",
+    "StationName": "U43: UDOT UrbanOtherFwyExpPrinArt"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U45",
+    "StationName": "U45: UDOT UrbanMinArtMjrColMinColLoc"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U50",
+    "StationName": "U50: UDOT RuralInterstate"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U51",
+    "StationName": "U51: UDOT RuralOthPrinArt"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U53",
+    "StationName": "U53: UDOT RuralMinArtMajColMinColLoc"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U60",
+    "StationName": "U60: UDOT NorthRec"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U62",
+    "StationName": "U62: UDOT CottonwoodCanyons"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U63",
+    "StationName": "U63: UDOT GardenCityArea"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U70",
+    "StationName": "U70: UDOT StGeorge"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "U75",
+    "StationName": "U75: UDOT HighElevation"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD0",
+    "StationName": "WD0: Weekday Arterial Rural"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD1",
+    "StationName": "WD1: Weekday Arterial Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD2",
+    "StationName": "WD2: Weekday Arterial Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD3",
+    "StationName": "WD3: Weekday Arterial Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD4",
+    "StationName": "WD4: Weekday Canyon"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD5",
+    "StationName": "WD5: Weekday Expressway Rural/Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD6",
+    "StationName": "WD6: Weekday Expressway Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD7",
+    "StationName": "WD7: Weekday Expressway Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD8",
+    "StationName": "WD8: Weekday Freeway I-15 Rural"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WD9",
+    "StationName": "WD9: Weekday Freeway I-15 Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDA",
+    "StationName": "WDA: Weekday Freeway I-15 Suburban/Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDB",
+    "StationName": "WDB: Weekday Freeway I-215"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDC",
+    "StationName": "WDC: Weekday Freeway I-70"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDD",
+    "StationName": "WDD: Weekday Freeway I-80 Rural/Transition"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDE",
+    "StationName": "WDE: Weekday Freeway I-80 Suburban"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDF",
+    "StationName": "WDF: Weekday Freeway I-80 Urban/CBD"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDG",
+    "StationName": "WDG: Weekday Freeway I-84 East"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDH",
+    "StationName": "WDH: Weekday Freeway I-84 West"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDI",
+    "StationName": "WDI: Weekday Freeway Legacy"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDJ",
+    "StationName": "WDJ: Weekday Freeway SR-201"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "WDK",
+    "StationName": "WDK: Weekday Freeway US-40"
+  },
+  {
+    "StationGroup": "GRP",
+    "StationID": "XX4",
+    "StationName": "XX4: Weekday Freeway Statewide"
+  }
+]

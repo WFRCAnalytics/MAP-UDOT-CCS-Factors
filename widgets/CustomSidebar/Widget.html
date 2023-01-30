@@ -1,0 +1,247 @@
+<div>
+  <div id="myTableNode">
+    
+    <table width="100%">
+      <tr>
+        <td colspan=2>
+          <table width="100%">
+            <tbody>
+              <tr>
+                <td width="45%">
+                  <p class="thicker">CCS Groups</p>
+                </td>
+                <td width="45%">
+                    &nbsp;
+                </td>
+                <td width="10%">
+                  <div id="devtoggle" style="display: flex; justify-content: flex-end"></div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div id="cmbStationGroups" data-dojo-type="dojox.form.Select"></div>
+                </td>
+                <td colspan="2">
+                  <div id="devtext"></div>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  &nbsp;
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td width="60%">
+          <table>
+            <tbody>
+              <tr>
+                <td width="358px">
+                  <div id="CCSSelectionAreaTitle" style="display: block;">
+                    <p class="thicker">Continuous Count Stations (CCS)</p>
+                  </div>
+                </td>
+                <td width="70px">
+                  <div id="CCSSelectionAreaButton" style="display: block;">
+                    <button id="button" data-dojo-attach-event="onClick: ShowAll" style="width: 90px; height:20px;">Select All</button>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2">
+                  <div id="CCSSelectionArea" style="display: block;"><div id="cmbCCSs" data-dojo-type="dojox.form.CheckedMultiSelect"></div></div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        <td id="advsettings" width="40%" style="display:none;">
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <p class="thicker">Chart Series</p>
+                </td>
+                <td>
+                  <p class="thicker">Month Groups</p>
+                </td>
+                <td>
+                  <p class="thicker">Year Groups</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <div id="cmbSeries" data-dojo-type="dojox.form.CheckedMultiSelect"></div>
+                </td>
+                <td>
+                  <div id="cmbMonthGroups" data-dojo-type="dojox.form.CheckedMultiSelect"></div>
+                </td>
+                <td>
+                  <div id="YearSingle"><div id="cmbYears" data-dojo-type="dojox.form.CheckedMultiSelect"></div></div>
+                  <!--<div id="YearMultiple"><div id="cmbYears_MultipleSelect" data-dojo-type="dojox.form.CheckedMultiSelect"  style="display: none;"></div></div>-->
+                  <!-- style="display: none;"-->
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+
+      </tr>
+    </table>
+    <hr/>
+    <table>
+      <tr style="vertical-align:top">
+        <td width="400px;">
+          <div id="tables_dowfactors">
+            <table width="98%">
+              <tr>
+                <td colspan="7">
+                  <center><div id="dowtabletitle"></div></center>
+                  <br/>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+                <td colspan="3" align="center"><b>Weekdays</b></td>
+                <td align="center">&nbsp;</td>
+                <td colspan="2" align="center" bgcolor="#EEEEEE"><b>Weekend</b></td>
+              </tr>      
+              <tr>
+                <td width="14%" align="center">Mon</td>
+                <td width="14%" align="center">Tue</td>
+                <td width="14%" align="center">Wed</td>
+                <td width="14%" align="center">Thu</td>
+                <td width="14%" align="center">Fri</td>
+                <td width="14%" align="center" bgcolor="#EEEEEE">Sat</td>
+                <td width="14%" align="center" bgcolor="#EEEEEE">Sun</td>
+              </tr>
+              <tr>
+                <td><div id="01-Mon" align="center">0</div></td>
+                <td><div id="02-Tue" align="center">0</div></td>
+                <td><div id="03-Wed" align="center">0</div></td>
+                <td><div id="04-Thu" align="center">0</div></td>
+                <td><div id="05-Fri" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="06-Sat" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="07-Sun" align="center">0</div></td>
+              </tr>
+              <tr>
+                <td align="center">&nbsp;</td>
+                <td colspan="3" align="center">Tue-Thu Average</td>
+                <td align="center">&nbsp;</td>
+                <td colspan="2" align="center" bgcolor="#EEEEEE">Sat-Sun Average</td>
+              </tr>
+              <tr>
+                <td colspan="5" align="center"><div id="W1-Tue-Thu">0</div></td>
+                <td colspan="2" align="center" bgcolor="#EEEEEE"><div id="W2-Sat-Sun">0</div></td>
+              </tr>
+              <tr>
+                <td colspan="5" align="center"></td>
+                <td colspan="2" align="center" bgcolor="#EEEEEE">Sat-Sun Max</td>
+              </tr>
+              <tr>
+                <td colspan="5" align="center"></td>
+                <td colspan="2" align="center" bgcolor="#EEEEEE"><div id="MaxWkEnd">0</div></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+        <td width="400px;">
+          <div id="tables_monthfactors">
+            <table width="96%">
+              <tr>
+                <td colspan="12">
+                  <center><div id="monthtabletitle"></div></center>
+                  <br/>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center"><b>Winter</b></td>
+                <td colspan="3" align="center" bgcolor="#EEEEEE"><b>Spring</b></td>
+                <td colspan="3" align="center"><b>Summer</b></td>
+                <td colspan="3" align="center" bgcolor="#EEEEEE"><b>Fall</b></td>
+                <td colspan="1" align="center"><b>Winter</b></td>
+              </tr>      
+              <tr>
+                <td width="8%" align="center">Jan</td>
+                <td width="8%" align="center">Feb</td>
+                <td width="8%" align="center" bgcolor="#EEEEEE">Mar</td>
+                <td width="8%" align="center" bgcolor="#EEEEEE">Apr</td>
+                <td width="8%" align="center" bgcolor="#EEEEEE">May</td>
+                <td width="8%" align="center">Jun</td>
+                <td width="8%" align="center">Jul</td>
+                <td width="8%" align="center">Aug</td>
+                <td width="8%" align="center" bgcolor="#EEEEEE">Sep</td>
+                <td width="8%" align="center" bgcolor="#EEEEEE">Oct</td>
+                <td width="8%" align="center" bgcolor="#EEEEEE">Nov</td>
+                <td width="8%" align="center">Dec</td>
+              </tr>
+              <tr>
+                <td><div id="Jan" align="center">0</div></td>
+                <td><div id="Feb" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="Mar" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="Apr" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="May" align="center">0</div></td>
+                <td><div id="Jun" align="center">0</div></td>
+                <td><div id="Jul" align="center">0</div></td>
+                <td><div id="Aug" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="Sep" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="Oct" align="center">0</div></td>
+                <td bgcolor="#EEEEEE"><div id="Nov" align="center">0</div></td>
+                <td><div id="Dec" align="center">0</div></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">Winter</td>
+                <td colspan="3" align="center" bgcolor="#EEEEEE">Spring</td>
+                <td colspan="3" align="center">Summer</td>
+                <td colspan="3" align="center" bgcolor="#EEEEEE">Fall</td>
+                <td colspan="1" align="center">Winter</td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center"><div id="Winter">0</div></td>
+                <td colspan="3" align="center" bgcolor="#EEEEEE"><div id="Spring">0</div></td>
+                <td colspan="3" align="center"><div id="Summer">0</div></td>
+                <td colspan="3" align="center" bgcolor="#EEEEEE"><div id="Fall">0</div></td>
+                <td colspan="1" align="center"><div id="Winter2">0</div></td>
+              </tr>
+            </table>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          &nbsp;
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div id="chartOne"></div>
+        </td>
+        <td>
+          <div id="chartTwo"></div>
+        </td>
+      </tr>
+      <tr>
+        <td valign="right">
+          <button id="showHideAllOne" data-dojo-attach-event="onClick: ShowHideAllOne" style="width: 70px; height:20px; float:right;">Hide All</button><!--<button id="toggleOne" data-dojo-attach-event="onClick: ToggleOne" style="width: 70px; height:20px; float:right;">Toggle</button>-->
+          <br/>
+          <br/>
+        </td>
+        <td>
+          <button id="showHideAllTwo" data-dojo-attach-event="onClick: ShowHideAllTwo" style="width: 70px; height:20px; float:right;">Hide All</button><!--<button id="toggleOne" data-dojo-attach-event="onClick: ToggleTwo" style="width: 70px; height:20px; float:right;">Toggle</button>-->
+          <div class="break"></div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div id="legendOne"></div>
+        </td>
+        <td>
+          <div id="legendTwo"></div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>

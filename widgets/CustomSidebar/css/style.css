@@ -1,0 +1,164 @@
+p.normal {
+    font-weight: normal;
+}
+
+p.light {
+    font-weight: lighter;
+}
+
+p.thick {
+    font-weight: bold;
+}
+
+p.thicker {
+    font-weight: 900;
+	font-size: 120%;
+}
+
+div.fromcell {
+	font-weight: bold;
+	font-size: 110%;
+	background-color:rgba(229,102,102,0.3);
+	padding: 0.25em;
+	line-height:22px;
+}
+
+div.tocell {
+	font-weight: bold;
+	font-size: 110%;
+	background-color:rgba(102,102,229,0.3);
+	padding: 0.25em;
+	line-height:22px;
+}
+
+div.fromcell.label {
+	background-color:rgb(255,255,255);
+}
+
+div.tocell.label {
+	background-color:rgb(255,255,255);
+}
+
+table.settings {
+	//border: 1px solid black;
+	background-color: rgba(185,185,185,0.3);
+}
+
+.right {
+    position: right;
+}
+
+div.thicker {
+    font-weight: 900;
+	font-size: 120%;
+}
+
+div.qTableResults {
+	font-weight: normal;
+	text-align: right;
+	font-size: 110%;
+}
+
+div.qTableResults.Total {
+	font-weight: bold;
+}
+
+div.qTableResultsShare {
+	font-weight: normal;
+	text-align: right;
+	font-size: 110%;
+}
+
+div.qTableResultsShare.Total {
+	font-weight: normal;
+}
+
+div.qTableRowLabel{
+    font-weight: normal;
+	text-align: Left;
+	font-size: 110%;
+}
+
+div.qTableRowLabel.NonMotorized{
+	font-size: 105%;
+}
+
+div.qTableRowLabel.AllModes{
+	font-weight: bold;
+}
+
+div.qTableHeaderLabel{
+    font-weight: bold;
+	font-size: 105%;
+	text-decoration: underline;
+}
+	
+div.qTableYearRow{
+	font-weight: bold;
+	font-size: 110%;
+	text-align: center;
+	background-color:#dddddd;
+	padding:0.5em;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+td.resultrow {
+	height:25px;	
+}
+
+td.resultrow .heading{
+	height:35px;	
+}
+
+td.resultrow.share {
+	width:60px;
+}
+
+td.resultrow.number {
+	width:100px;
+}
+
+td.resultrow.label {
+	width:105px;
+}
+
+tr.results_color {
+    background-color: #dddddd;
+}
+
+table.resultstable {
+	width: 100%;
+	border: none;
+	border-collapse:collapse;
+}
+
+//table.resultstable tr:nth-child(odd) td{
+//           background:#ccc;
+//}
+//table.resultstable tr:nth-child(even) td{
+//            background:#fff;
+//}
+
+br {
+   display: block;
+   margin: 15px 0;
+}
+
+div.scrollable {
+    border: 1px solid #999;
+    padding: 10px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    bottom: 10px;
+    left: 10px;
+    overflow: auto;
+}
